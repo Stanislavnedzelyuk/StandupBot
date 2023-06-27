@@ -3,7 +3,6 @@ package ru.hh;
 import okhttp3.*;
 import org.quartz.*;
 import org.quartz.impl.StdSchedulerFactory;
-
 import java.io.IOException;
 import java.util.Random;
 
